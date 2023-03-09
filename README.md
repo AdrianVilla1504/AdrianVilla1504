@@ -13,3 +13,9 @@ I am a person who enjoys and is grateful for the essential things in life, such 
 | Next.js    | Git          | SCRUM    | Vercel | Joi      | Jwt      |
 | Node.js    | GitLab       | Railway  | Render | SendGrid | Stripe   |
 | SOLID      | Redux        | Agile    | HTML   | CSS      |          |
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
