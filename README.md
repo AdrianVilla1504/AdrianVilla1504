@@ -1,5 +1,5 @@
-# Hi
-# 👋 My name is Adrian Villa
+# Hi 👋
+# My name is Adrian Villa
 
 I am a developer with skills in analysis, autonomy, initiative, teamwork, and problem-solving. I have a good level of English and knowledge of the *Javascript/Typescript* language, with experience using the *MERN* stack, *version control* with git, and managing *Npm packages*, among other things.
 
@@ -14,3 +14,8 @@ I am a person who enjoys and is grateful for the essential things in life, such 
 | React.js   | Express.js   | Mongo Db | Heroku | Mongoose | Tailwind |
 | Next.js    | Git          | SCRUM    | Vercel | Joi      | Jwt      |
 | Node.js    | GitLab       | Railway  | Render | SendGrid | Stripe   |
+
+Contact me.
+
+[LinkedIn](https://www.google.com)
+[WebPortfolio](https://adrian-villa-dev-portfolio.vercel.app/)
