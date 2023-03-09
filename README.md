@@ -12,4 +12,4 @@ I am a person who enjoys and is grateful for the essential things in life, such 
 | React.js     | Express.js | Mongo Db | Heroku | Mongoose | Tailwind |
 | Next.js      | Git        | SCRUM    | Vercel | Joi      | Jwt      |
 | Node.js      | Github     | Railway  | Render | SendGrid | Stripe   |
-| SOLID        | Redux      | Agile    | HTML   | CSS      |
+| SOLID        | Redux      | Agile    | HTML   | CSS      |          |
