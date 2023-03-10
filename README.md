@@ -1,21 +1,21 @@
-# Hi 👋
-# My name is Adrian Villa
+## Hi 👋 My name is Adrian Villa
 
 I am a developer with skills in analysis, autonomy, initiative, teamwork, and problem-solving. I have a good level of English and knowledge of the *Javascript/Typescript* language, with experience using the *MERN* stack, *version control* with git, and managing *Npm packages*, among other things.
 
 *Experience has taught me how to solve problems and make things happen in my career as well as outside of it.*
 
-I am a person who enjoys and is grateful for the essential things in life, such as good health, and spending time with my family, partner, and friends. Going out to eat at a restaurant or taking a walk in a park or beautiful place while having a conversation for hours is my preferred way to spend my free time.
+### Frameworks/Systems/Methodologies/Technologies
 
-## Frameworks/Systems/Methodologies/Technologies
-
-| SOLID      | Redux        | Agile    | HTML   | CSS      | NPM      |
+|             |||||                                                 |
 |------------|--------------|----------|--------|----------|----------|
 | React.js   | Express.js   | Mongo Db | Heroku | Mongoose | Tailwind |
 | Next.js    | Git          | SCRUM    | Vercel | Joi      | Jwt      |
 | Node.js    | GitLab       | Railway  | Render | SendGrid | Stripe   |
+| SOLID      | Redux        | Agile    | HTML   | CSS      | NPM      |
 
-Contact me.
+### Contact me.
 
-[LinkedIn](https://www.google.com)
-[WebPortfolio](https://adrian-villa-dev-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/adrian-villa-776783175/)
+- [WebPortfolio](https://adrian-villa-dev-portfolio.vercel.app/)
+- [Phone: +57 320 5200706](https://api.whatsapp.com/send?phone=573205200706)
+- [Email: adriancvilla@gmail.com](mailto:adriancvilla@gmail.com)
