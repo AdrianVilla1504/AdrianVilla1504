@@ -1,3 +1,5 @@
+![cover-typescript-mern-react-node-next-developer-web](/public/cover.svg)
+
 ## Hi 👋 My name is Adrian Villa
 
 I am a developer with skills in analysis, autonomy, initiative, teamwork, and problem-solving. I have a good level of English and knowledge of the *Javascript/Typescript* language, with experience using the *MERN* stack, *version control* with git, and managing *Npm packages*, among other things.
