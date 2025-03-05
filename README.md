@@ -1,19 +1,8 @@
-![cover-typescript-mern-react-node-next-developer-web](/public/cover.svg)
-
 ## Hi 👋 My name is Adrian Villa
 
-I am a developer with skills in analysis, autonomy, initiative, teamwork, and problem-solving. I have a good level of English and knowledge of the *Javascript/Typescript* language, with experience using the *MERN* stack, *version control* with git, and managing *Npm packages*, among other things.
+I am a software engineer with experience developing and integrating web and mobile solutions, specializing in backend, frontend, and DevOps. I stand out for my problem-solving ability, teamwork, and adaptability to dynamic environments.
 
 *Experience has taught me how to solve problems and make things happen in my career as well as outside of it.*
-
-### Frameworks/Systems/Methodologies/Technologies
-
-|             |||||                                                 |
-|------------|--------------|----------|--------|----------|----------|
-| React.js   | Express.js   | Mongo Db | Heroku | Mongoose | Tailwind |
-| Next.js    | Git          | SCRUM    | Vercel | Joi      | Jwt      |
-| Node.js    | GitLab       | Railway  | Render | SendGrid | Stripe   |
-| SOLID      | Redux        | Agile    | HTML   | CSS      | NPM      |
 
 ### Contact me.
 
