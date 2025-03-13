@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Adrian Villa
 
-I am a software engineer with experience developing and integrating web and mobile solutions, specializing in backend, frontend, and DevOps. I stand out for my problem-solving ability, teamwork, and adaptability to dynamic environments.
+I am a full stack engineer with experience developing and integrating web and mobile solutions, specializing in backend, frontend, and DevOps. I stand out for my problem-solving ability, teamwork, and adaptability to dynamic environments.
 
 *Experience has taught me how to solve problems and make things happen in my career as well as outside of it.*
 
