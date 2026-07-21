@@ -140,25 +140,8 @@ GitHub Copilot • Cursor AI • OpenAI GPT • Claude • Gemini
 
 - 🇪🇸 Spanish — Native
 - 🇺🇸 English — B2 Professional Working Proficiency
-
+- 
 ---
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
 
 # 📫 Connect With Me
 
