@@ -1,32 +1,34 @@
-# Hi 👋 I'm Adrian Camilo Villa Jimenez
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
+# Hi there 👋 I'm Adrian Camilo Villa Jimenez
 
 <h3 align="center">
-DevOps Engineer • Azure • Terraform • Docker • CI/CD • Linux
+DevOps & Cloud Engineer | Microsoft Azure | Terraform | Docker | CI/CD | Linux
 </h3>
 
 <p align="center">
-Building reliable cloud infrastructure, automating deployments, and solving production challenges.
+Designing, automating, and operating reliable cloud infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrian-villa-776783175/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adriancvilla@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AdrianVilla1504" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **DevOps Engineer** from **Colombia** with **3+ years of experience** supporting production environments, automating infrastructure, and improving the reliability of cloud applications.
-
-My experience combines **Cloud Operations**, **Infrastructure as Code**, **CI/CD**, **Linux administration**, and **software development**, allowing me to understand applications from infrastructure to code.
-
-Currently I'm expanding my expertise in:
-
-- ☁️ Azure Cloud Architecture
-- 🏗️ Terraform
-- ☸️ Kubernetes
-- ⚙️ Platform Engineering
-- 📈 Site Reliability Engineering (SRE)
+I'm a **DevOps & Cloud Engineer** with **3+ years of experience** supporting and automating cloud-based production environments. I've worked across **startups, growing technology companies, and global enterprises with over 500,000 employees**, helping deliver reliable infrastructure, automate deployments, troubleshoot production incidents, and ensure the availability of business-critical applications.
 
 ---
 
@@ -42,12 +44,20 @@ Currently I'm expanding my expertise in:
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🐧 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 💾 Databases
 
@@ -55,92 +65,81 @@ Currently I'm expanding my expertise in:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ### 🌐 Networking
 
-- TCP/IP
-- DNS
-- HTTP / HTTPS
-- REST APIs
-- Virtual Networks
+`TCP/IP` • `HTTP/HTTPS` • `DNS` • `REST APIs` • `Virtual Networks`
 
 ### 📊 Monitoring
 
-- Azure Monitor
-- Application Insights
-- Log Analytics
+Azure Monitor • Application Insights • Log Analytics
 
 ---
 
-# 💼 Experience
+# 🎯 Core Competencies
 
-### 💻 Teleperformance — Application Developer *(2025 – Present)*
+- Cloud Infrastructure (Microsoft Azure)
+- Infrastructure as Code (Terraform)
+- CI/CD Automation
+- Docker & Containerization
+- Linux Administration
+- Production Operations
+- Incident Troubleshooting
+- Cloud Networking
+- Monitoring & Observability
+- SQL & NoSQL Databases
 
-- Monitoring Azure production environments.
-- Supporting Azure Functions and SQL Server workloads.
-- Managing CI/CD pipelines with Azure DevOps.
-- Executing production deployments.
-- Troubleshooting incidents and improving application reliability.
+--- 
 
----
+# 💼 Professional Experience
 
-### ☁️ EatCloud — Software Engineer *(2024 – 2025)*
+### 🏢 Teleperformance | Application Developer
+**Apr 2025 – Present**
 
-- Containerized applications with Docker.
-- Automated deployments through Azure DevOps.
-- Built web and mobile applications.
-- Improved scalability and deployment reliability.
-
----
-
-### 🚀 Saroca Tec — Software Engineer *(2023 – 2024)*
-
-- Managed Linux production servers.
-- Worked with Azure and DigitalOcean infrastructure.
-- Implemented CI/CD pipelines.
-- Maintained cloud applications and production deployments.
+- Monitor and maintain Azure production environments.
+- Manage Azure Functions and SQL Server workloads.
+- Execute production deployments through Azure DevOps.
+- Maintain CI/CD pipelines and deployment workflows.
+- Investigate incidents and support developers in resolving production issues.
 
 ---
 
-### 👨‍💻 Make It Real — Full Stack Engineer Trainee *(2022)*
+### 🏢 EatCloud | Software Engineer
+**Apr 2024 – Feb 2025**
 
-- Developed MVP applications.
-- Participated in deployment automation.
-- Worked across frontend, backend, and DevOps practices.
+- Automated deployment processes using Azure DevOps.
+- Implemented containerized applications with Docker.
+- Contributed to cloud-hosted web and mobile solutions.
+- Improved application scalability and deployment reliability.
+
+---
+
+### 🏢 Saroca Tec | Software Engineer
+**Mar 2023 – Apr 2024**
+
+- Managed Linux servers running on Azure and DigitalOcean.
+- Implemented CI/CD pipelines and deployment automation.
+- Maintained production applications and cloud infrastructure.
+- Supported monitoring, troubleshooting, and infrastructure operations.
 
 ---
 
-# 🎓 Education
+### 🏢 Make It Real | Full Stack Engineer Trainee
+**Jun 2022 – Nov 2022**
 
-**Software Engineering Specialist**
-Universidad Tecnológica de Bolívar *(2026)*
-
-**Engineering Degree**
-Universidad Tecnológica de Bolívar *(2022)*
-
----
+- Built and deployed MVP applications.
+- Worked with Node.js, React, and MongoDB.
+- Applied DevOps practices to streamline deployments and testing environments.
 
 # 🤖 AI Tools
 
-- GitHub Copilot
-- Cursor AI
-- OpenAI GPT
-- Claude
-- Gemini
+GitHub Copilot • Cursor AI • OpenAI GPT • Claude • Gemini
 
 ---
 
 # 🌎 Languages
 
-- 🇪🇸 Spanish (Native)
-- 🇺🇸 English (B2 Professional Working Proficiency)
+- 🇪🇸 Spanish — Native
+- 🇺🇸 English — B2 Professional Working Proficiency
 
 ---
 
@@ -155,49 +154,19 @@ Universidad Tecnológica de Bolívar *(2022)*
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🚀 Featured Projects
 
-> Replace these with your repositories.
+# 📫 Connect With Me
 
-| Project | Description |
-|---------|-------------|
-| ☁️ Azure Infrastructure | Infrastructure as Code with Terraform |
-| 🚀 CI/CD Pipelines | Azure DevOps & GitLab CI examples |
-| 🐳 Docker Labs | Containerized applications |
-| ☸️ Kubernetes Labs | AKS & Kubernetes practice |
-| ⚙️ Linux Automation | Bash & Python automation scripts |
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 🦊 GitLab: https://gitlab.com/YOUR_GITLAB
+- 📧 Email: adriancvilla@gmail.com
 
 ---
 
-# 📫 Connect with Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://gitlab.com/YOUR_GITLAB">
-<img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab"/>
-</a>
-
-<a href="mailto:adriancvilla@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-> **"Automating today to build reliable systems for tomorrow."**
+> **"Building reliable cloud platforms through automation, scalability, and continuous improvement."**
