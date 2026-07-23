@@ -38,6 +38,7 @@ I'm a **DevOps & Cloud Engineer** with **3+ years of experience** supporting and
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### ⚙️ DevOps
 
@@ -50,6 +51,7 @@ I'm a **DevOps & Cloud Engineer** with **3+ years of experience** supporting and
 ### 🐧 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 💻 Programming
 
