@@ -16,12 +16,12 @@ Designing, automating, and operating reliable cloud infrastructure.
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AdrianVilla1504" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-AdrianVilla1504-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=AdrianVilla1504&style=flat-square&color=blue" />
 </p>
 
 ---
