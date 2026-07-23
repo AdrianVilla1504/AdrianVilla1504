@@ -142,7 +142,7 @@ GitHub Copilot • Cursor AI • OpenAI GPT • Claude • Gemini
 
 - 🇪🇸 Spanish — Native
 - 🇺🇸 English — B2 Professional Working Proficiency
-- 
+  
 ---
 
 # 📫 Connect With Me
