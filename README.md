@@ -145,9 +145,8 @@ GitHub Copilot • Cursor AI • OpenAI GPT • Claude • Gemini
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 🦊 GitLab: https://gitlab.com/YOUR_GITLAB
+- 💼 LinkedIn: https://www.linkedin.com/in/adrian-villa-776783175/
+- 💻 GitHub: https://github.com/AdrianVilla1504/
 - 📧 Email: adriancvilla@gmail.com
 
 ---
