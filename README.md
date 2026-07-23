@@ -153,4 +153,4 @@ GitHub Copilot • Cursor AI • OpenAI GPT • Claude • Gemini
 
 ---
 
-> **"Building reliable cloud platforms through automation, scalability, and continuous improvement."**
+> **"Working for reliable cloud platforms through automation, scalability, and continuous improvement."**
